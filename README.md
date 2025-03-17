@@ -186,8 +186,8 @@
 
 **숭실대학교**  
 - GEMM Kernel  
-[- Intel KNL]()  
-[- ARM Thunderx2]()  
+[- Intel KNL](https://github.com/lshqqytiger/kease-dgemm-knl)  
+[- ARM Thunderx2](https://github.com/lshqqytiger/kease-dgemm-thunderx2)  
 - SPMV Kernel  
 [- Intel KNL]()
 
