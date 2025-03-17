@@ -189,7 +189,7 @@
 [- Intel KNL](https://github.com/lshqqytiger/kease-dgemm-knl)  
 [- ARM Thunderx2](https://github.com/lshqqytiger/kease-dgemm-thunderx2)  
 - SPMV Kernel  
-[- Intel KNL](https://github.com/lshqqytiger/kease-spmv-knl](https://github.com/lshqqytiger/kease-sparse-knl)
+[- Intel KNL](https://github.com/lshqqytiger/kease-sparse-knl)
 
 **명지대학교**    
 - 입력예정
