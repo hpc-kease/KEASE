@@ -182,14 +182,21 @@
 
 ---
 
-## Project SouceCode
+## Project SourceCode
 
 **숭실대학교**  
 - GEMM Kernel  
 [Intel KNL]()  
 [ARM Thunderx2]()  
-- SPMV Kernel()  
-[ Intel KNL]  
+- SPMV Kernel  
+[ Intel KNL]()
+
 **명지대학교**    
+- 입력예정
+ 
 **연세대학교**  
+- 입력예정
+
 **성균관대학교**  
+- 입력예정
+  
