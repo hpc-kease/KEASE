@@ -185,17 +185,17 @@
 ## KEASE 프레임워크 Source Code
 
 **숭실대학교**  
-- GEMM Kernel  
-  Intel KNL[🔗](https://github.com/lshqqytiger/kease-dgemm-knl)  
-  ARM Thunderx2[🔗](https://github.com/lshqqytiger/kease-dgemm-thunderx2)  
-- SPMV Kernel  
-  Intel KNL[🔗](https://github.com/lshqqytiger/kease-sparse-knl)
+GEMM Kernel  
+- Intel KNL [🔗](https://github.com/lshqqytiger/kease-dgemm-knl)  
+- ARM Thunderx2 [🔗](https://github.com/lshqqytiger/kease-dgemm-thunderx2)  
+SPMV Kernel  
+- Intel KNL [🔗](https://github.com/lshqqytiger/kease-sparse-knl)
 
 **명지대학교**    
 - 입력예정
  
 **연세대학교**  
-  Blocked Samples[🔗](https://github.com/s3yonsei/blocked_samples)  
+- Blocked Samples [🔗](https://github.com/s3yonsei/blocked_samples)  
 
 **성균관대학교**  
 - 입력예정
