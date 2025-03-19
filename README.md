@@ -192,11 +192,11 @@
   \- Intel KNL [\[🔗\]](https://github.com/lshqqytiger/kease-sparse-knl)
 
 **명지대학교**    
-- Source Code  
+- ML-Disease [\[🔗\]](https://github.com/myunghol/ML-Disease)  
  
 **연세대학교**  
 - Blocked Samples [\[🔗\]](https://github.com/s3yonsei/blocked_samples)  
 
 **성균관대학교**  
-- Source Code  
+- AdaptiveOpenMP [\[🔗\]](https://github.com/HPC-SKKU/AdaptiveOpenMP)  
   
